@@ -69,9 +69,6 @@ class _HomeScreenState extends State<HomeScreen> {
           geolocationEnabled: true, //support geolocation or not
         );
       }),
-      drawer: Drawer(
-
-      ),
     );
   }
 }
